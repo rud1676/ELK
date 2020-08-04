@@ -8,3 +8,7 @@
 4. [섹션6](inflearn/섹션6.md) - 도커 실습
 5. [섹션7](inflearn/섹션7.md) - 실제 실습
 6. [섹션7-2](inflearn/섹션7-2.md) - 실제 실습2
+
+## winlogbeat 따로 정리
+
+1. [실습](3주차-winlogbeat정리/winlogbeat.md) - 로그 갯수 띄우는 실습
