@@ -12,3 +12,4 @@
 ## winlogbeat 따로 정리
 
 1. [실습](3주차-winlogbeat정리/winlogbeat.md) - 로그 갯수 띄우는 실습
+2. [실습2](3주차-winlogbeat정리/winlogbeat.md) - 설정파일과 로그의 종류를 파악해 yml설정후 키바나로 돌림
