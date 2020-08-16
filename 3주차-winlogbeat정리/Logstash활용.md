@@ -16,6 +16,8 @@ elastic cloud에 대하여 질문입니다!
 
 제가 실습을 했을 땐 클라우드 환경에서 한게아니라 VM환경에서 Ubuntu로 실습을 진행하여 elasticsearch, kibana ,logstash를 엘라스틱 서버쪽에 모두 설치하여 활용하였습니다.
 
-그렇다면 elastic cloud에서는 logstash를 사용하려면 
+그렇다면 elastic cloud에서는 logstash를 사용하려면
 
-아마존 ec2나 azure에서 가상컴퓨터를 만들어주고 그 컴퓨터에 logstash를 설치하고 각 client에서 수집되는 로그를 만들어준 logstash에 전송하고 또다시 logstash에서 elastic cloud로 전송하는 방식으로 만들어야되는지 궁금합니다.
+aws ec2나 azure에서 가상컴퓨터를 만들어주고 그 컴퓨터에 logstash를 설치하고 각 client에서 수집되는 로그를 가상 컴퓨터에서 만들어준 logstash에 전송하고 또다시 logstash에서 elastic cloud로 전송하는 방식으로 만들어야되는지 궁금합니다.
+
+원하는 아키텍쳐 그림이 여기에 있어서 첨부하여서 질문합니다!
